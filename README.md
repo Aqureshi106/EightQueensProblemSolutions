@@ -1,2 +1,2 @@
-# CSCI212Projects
-CSCI 212 (Object Oriented Programming in C++) developed projects
+# EightQueensProblemSolutions
+The source codes of the program that reveals every solution to the eight queens problem.
