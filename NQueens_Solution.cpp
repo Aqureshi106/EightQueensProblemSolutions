@@ -4,7 +4,7 @@ using namespace std;
 
 bool ok(int q[], int c) {
     for (int i = 0; i < c; i++) {
-        if (q[c] == q[i] or(c - i) == abs(q[c] - q[i])) {
+        if (q[c] == q[i] or (c - i) == abs(q[c] - q[i])) {
             return false;
         }
     }
